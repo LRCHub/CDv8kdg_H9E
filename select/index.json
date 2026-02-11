@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "白南風 (P.S. ver.)",
+  "base_artist": "Orangestar",
+  "createdAt": "2026-02-11T08:48:07.204050Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "白南風",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/01_白南風_Orangestar.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "白南風",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_01_白南風_Orangestar.txt"
+    }
+  ]
+}
